@@ -1,0 +1,10 @@
+#Link1:link{
+    color: #CC0000;
+}
+#Link1:hover{
+    background-color: #CC0000;
+    color: #FFF;
+}
+#Link1:active{
+    color: blue;
+}
