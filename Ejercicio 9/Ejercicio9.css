@@ -1,0 +1,71 @@
+#titulo{
+    color: blue;
+}
+
+ p strong{
+    color:darkcyan ;
+}
+
+.destacado{
+    color: aqua;
+}
+
+#subtitulo{
+    color: blueviolet;
+}
+
+p a{
+color: lawngreen;
+}
+
+p a em{
+    color: yellow;
+}
+
+p  .especial{
+    color: hotpink;
+}
+
+table{
+    border-collapse: collapse;
+} 
+
+th ,  td {
+    border: 1px solid #000;
+}
+
+thead tr th.especial{
+    color: darkred;
+} 
+
+tfoot tr th{
+    color: orangered;
+}
+
+tbody tr th.especial{
+    color: darkred;
+}
+
+tbody tr td{
+    color: darkslateblue;
+}
+
+tbody tr td strong{
+    color: crimson;
+}
+
+tbody tr th{
+    color: orangered;
+}
+
+#adicional{
+    color: goldenrod;
+}
+
+#adicional p #especial{
+color: indigo;
+}
+
+#adicional p a{
+    color: lightgreen;
+}
